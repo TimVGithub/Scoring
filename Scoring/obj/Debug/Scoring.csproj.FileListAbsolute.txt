@@ -1,0 +1,10 @@
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Scoring\Scoring\bin\Debug\Scoring.exe.config
+C:\Users\Tim-san\Desktop\Scoring\Scoring\bin\Debug\Scoring.exe.config
+C:\Users\Tim-san\Desktop\Scoring\Scoring\bin\Debug\Scoring.exe
+C:\Users\Tim-san\Desktop\Scoring\Scoring\bin\Debug\Scoring.pdb
+C:\Users\Tim-san\Desktop\Scoring\Scoring\obj\Debug\Scoring.csprojResolveAssemblyReference.cache
+C:\Users\Tim-san\Desktop\Scoring\Scoring\obj\Debug\Scoring.exe
+C:\Users\Tim-san\Desktop\Scoring\Scoring\obj\Debug\Scoring.pdb
+C:\Users\Tim\Desktop\Scoring\Scoring\bin\Debug\Scoring.exe.config
+C:\Users\Tim\Desktop\Scoring\Scoring\obj\Debug\Scoring.exe
+C:\Users\Tim\Desktop\Scoring\Scoring\obj\Debug\Scoring.pdb
